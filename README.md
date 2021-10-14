@@ -1,1 +1,1 @@
-# CS61A
+# COMPSCI CS61A
